@@ -9,7 +9,7 @@ The program consists of 9 online courses and 1 capstone project that will provid
 This course served as a brief introduction of the tools, history, and careers in data science. The lectures provided advise on how to move forward in a data-driven world, as well as the next steps for data scientists as we progress further not just in technology but also society as a whole.
 
 ### ✅ Course 2: Tools for Data Science
-[Coursera Certificate](https://coursera.org/share/f4171f4dcb7e1fa75f0805748e6f83e9)
+[Coursera Certificate](https://coursera.org/share/f4171f4dcb7e1fa75f0805748e6f83e9) <br/>
 [Digital Badge](https://www.credly.com/badges/e9163e9b-9ad9-4aa1-ac5e-39a729458d56/public_url)
 
 In this course, I learned about both commercial and open-source tools for data science that are available for each stage of development such as Data Management, Data Integration and Transformation, Data Visualization, Model Building, Model Deployment, Model Assessment, and many more. I utilized IBM's Watson Studio, Jupyter Notebooks, and RStudio to complete this part of the program.
