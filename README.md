@@ -17,7 +17,7 @@ In this course, I learned about both commercial and open-source tools for data s
 ### ⬜️ Course 3: Data Science Methodology
 ### ✅  Course 4: Python for Data Science, AI, and Development
 [Coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/A9JQ5AULDMWP) <br/>
-[Digistal Badge](https://www.credly.com/badges/293aa66b-8b1f-46fc-aea6-8a5aa285badc/public_url) <br/>
+[Digital Badge](https://www.credly.com/badges/293aa66b-8b1f-46fc-aea6-8a5aa285badc/public_url) <br/>
 
 I already had prior experience in Python before I took this course, so I treated it more as a review. In this course, the curriculum includes Python fundamentals, data science libraries, and an introduction to APIs.
 
