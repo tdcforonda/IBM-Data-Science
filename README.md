@@ -22,6 +22,8 @@ In this course, I learned about both commercial and open-source tools for data s
 I already had prior experience in Python before I took this course, so I treated it more as a review. In this course, the curriculum includes Python fundamentals, data science libraries, and an introduction to APIs.
 
 ### ✅  Course 5: Python Project for Data Science
+[Coursera Certificate](https://www.coursera.org/account/accomplishments/certificate/9NQACRA4STGL) <br/>
+[Digital Badge](https://www.credly.com/badges/44b78fb1-eaf6-4bdc-966b-9b8f8c40e269/public_url) <br/>
 
 __Project Overview__ </br></br>
 
